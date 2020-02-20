@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.14)  20 FEB 2020 11:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.14)  20 FEB 2020 16:20
 entering extended mode
 **./relazioneProgetto.tex
 (relazioneProgetto.tex
@@ -314,184 +314,127 @@ Overfull \hbox (72.45035pt too wide) in paragraph at lines 84--86
  []
 
 [3]
-<./Img/Home.jpg, id=19, 531.23468pt x 377.15906pt>
-File: ./Img/Home.jpg Graphic file (type jpg)
-<use ./Img/Home.jpg>
-Package pdftex.def Info: ./Img/Home.jpg  used on input line 87.
-(pdftex.def)             Requested size: 398.42503pt x 282.8686pt.
-<./Img/Concert.jpg, id=20, 530.98375pt x 377.15906pt>
-File: ./Img/Concert.jpg Graphic file (type jpg)
-<use ./Img/Concert.jpg>
-Package pdftex.def Info: ./Img/Concert.jpg  used on input line 88.
-(pdftex.def)             Requested size: 398.23682pt x 282.8686pt.
-<./Img/News.jpg, id=21, 531.48563pt x 377.41pt>
-File: ./Img/News.jpg Graphic file (type jpg)
-<use ./Img/News.jpg>
-Package pdftex.def Info: ./Img/News.jpg  used on input line 89.
-(pdftex.def)             Requested size: 398.61324pt x 283.0568pt.
-<./Img/AroundYou.jpg, id=22, 530.73282pt x 377.41pt>
-File: ./Img/AroundYou.jpg Graphic file (type jpg)
-<use ./Img/AroundYou.jpg>
-Package pdftex.def Info: ./Img/AroundYou.jpg  used on input line 90.
-(pdftex.def)             Requested size: 398.04863pt x 283.0568pt.
-<./Img/MyEvents.jpg, id=23, 530.73282pt x 378.16281pt>
-File: ./Img/MyEvents.jpg Graphic file (type jpg)
-<use ./Img/MyEvents.jpg>
-Package pdftex.def Info: ./Img/MyEvents.jpg  used on input line 91.
-(pdftex.def)             Requested size: 398.04863pt x 283.6214pt.
-<./Img/Favorites.jpg, id=24, 531.48563pt x 377.91188pt>
-File: ./Img/Favorites.jpg Graphic file (type jpg)
-<use ./Img/Favorites.jpg>
-Package pdftex.def Info: ./Img/Favorites.jpg  used on input line 92.
-(pdftex.def)             Requested size: 398.61324pt x 283.43321pt.
-<./Img/Login.jpg, id=25, 1445.4pt x 1028.1612pt>
-File: ./Img/Login.jpg Graphic file (type jpg)
-<use ./Img/Login.jpg>
-Package pdftex.def Info: ./Img/Login.jpg  used on input line 93.
-(pdftex.def)             Requested size: 397.4752pt x 282.73735pt.
-<./Img/AddEvent.jpg, id=26, 531.48563pt x 378.41376pt>
-File: ./Img/AddEvent.jpg Graphic file (type jpg)
-<use ./Img/AddEvent.jpg>
-Package pdftex.def Info: ./Img/AddEvent.jpg  used on input line 94.
-(pdftex.def)             Requested size: 398.61324pt x 283.80962pt.
-
-Overfull \hbox (38.42503pt too wide) in paragraph at lines 87--95
-[]
- []
-
-
-Overfull \hbox (38.23682pt too wide) in paragraph at lines 87--95
-[]
- []
-
-
-Overfull \hbox (38.61324pt too wide) in paragraph at lines 87--95
-[]
- []
-
-
-Overfull \hbox (38.04863pt too wide) in paragraph at lines 87--95
-[]
- []
-
-
-Overfull \hbox (38.04863pt too wide) in paragraph at lines 87--95
-[]
- []
-
-
-Overfull \hbox (38.61324pt too wide) in paragraph at lines 87--95
-[]
- []
-
-
-Overfull \hbox (37.4752pt too wide) in paragraph at lines 87--95
-[]
- []
-
-
-Overfull \hbox (38.61324pt too wide) in paragraph at lines 87--95
-[] 
- []
-
-[4 <./Img/UseCaseFinal.jpg>] [5 <./Img/Home.jpg> <./Img/Concert.jpg>] [6 <./Img
-/News.jpg> <./Img/AroundYou.jpg>] [7 <./Img/MyEvents.jpg> <./Img/Favorites.jpg>
-]
-<./Img/ADFerrarelli.jpg, id=40, 1015.1526pt x 800.2698pt>
+<./Img/ADFerrarelli.jpg, id=19, 1015.1526pt x 800.2698pt>
 File: ./Img/ADFerrarelli.jpg Graphic file (type jpg)
 <use ./Img/ADFerrarelli.jpg>
-Package pdftex.def Info: ./Img/ADFerrarelli.jpg  used on input line 97.
+Package pdftex.def Info: ./Img/ADFerrarelli.jpg  used on input line 88.
 (pdftex.def)             Requested size: 406.05385pt x 320.10225pt.
 
-Overfull \hbox (46.05385pt too wide) in paragraph at lines 97--98
+Overfull \hbox (46.05385pt too wide) in paragraph at lines 88--89
 [] 
  []
 
-[8 <./Img/Login.jpg> <./Img/AddEvent.jpg>]
-<./Img/AD1Ferri.jpg, id=44, 1659.19875pt x 2345.76375pt>
+[4 <./Img/UseCaseFinal.jpg>]
+<./Img/AD1Ferri.jpg, id=23, 1659.19875pt x 2345.76375pt>
 File: ./Img/AD1Ferri.jpg Graphic file (type jpg)
 <use ./Img/AD1Ferri.jpg>
-Package pdftex.def Info: ./Img/AD1Ferri.jpg  used on input line 100.
+Package pdftex.def Info: ./Img/AD1Ferri.jpg  used on input line 91.
 (pdftex.def)             Requested size: 331.83388pt x 469.14444pt.
- [9 <./Img/ADFerrarelli.jpg>]
-<./Img/AD2Ferri.jpg, id=48, 2345.76375pt x 1659.19875pt>
+ [5 <./Img/ADFerrarelli.jpg>]
+<./Img/AD2Ferri.jpg, id=27, 2345.76375pt x 1659.19875pt>
 File: ./Img/AD2Ferri.jpg Graphic file (type jpg)
 <use ./Img/AD2Ferri.jpg>
-Package pdftex.def Info: ./Img/AD2Ferri.jpg  used on input line 102.
+Package pdftex.def Info: ./Img/AD2Ferri.jpg  used on input line 93.
 (pdftex.def)             Requested size: 469.14444pt x 331.83388pt.
 
-Overfull \hbox (109.14444pt too wide) in paragraph at lines 102--103
+Overfull \hbox (109.14444pt too wide) in paragraph at lines 93--94
 [] 
  []
 
-[10 <./Img/AD1Ferri.jpg>]
-<./Img/SQFerrarelli.jpg, id=52, 1171.7376pt x 646.5756pt>
+[6 <./Img/AD1Ferri.jpg>]
+<./Img/ADValeriani.jpg, id=32, 717.1593pt x 660.3069pt>
+File: ./Img/ADValeriani.jpg Graphic file (type jpg)
+<use ./Img/ADValeriani.jpg>
+Package pdftex.def Info: ./Img/ADValeriani.jpg  used on input line 95.
+(pdftex.def)             Requested size: 286.85863pt x 264.11807pt.
+ [7 <./Img/AD2Ferri.jpg>]
+<./Img/SQFerrarelli.jpg, id=36, 1051.0467pt x 484.9317pt>
 File: ./Img/SQFerrarelli.jpg Graphic file (type jpg)
 <use ./Img/SQFerrarelli.jpg>
-Package pdftex.def Info: ./Img/SQFerrarelli.jpg  used on input line 107.
-(pdftex.def)             Requested size: 468.68674pt x 258.62566pt.
+Package pdftex.def Info: ./Img/SQFerrarelli.jpg  used on input line 99.
+(pdftex.def)             Requested size: 420.41124pt x 193.96924pt.
 
-Overfull \hbox (108.68674pt too wide) in paragraph at lines 107--108
+Overfull \hbox (60.41124pt too wide) in paragraph at lines 99--100
 [] 
  []
 
-[11 <./Img/AD2Ferri.jpg>]
-<./Img/SQFerri.jpg, id=56, 3073.4825pt x 2933.96124pt>
+<./Img/SQFerri.jpg, id=37, 3073.4825pt x 2933.96124pt>
 File: ./Img/SQFerri.jpg Graphic file (type jpg)
 <use ./Img/SQFerri.jpg>
-Package pdftex.def Info: ./Img/SQFerri.jpg  used on input line 109.
+Package pdftex.def Info: ./Img/SQFerri.jpg  used on input line 101.
 (pdftex.def)             Requested size: 461.00249pt x 440.0752pt.
 
-Overfull \hbox (101.00249pt too wide) in paragraph at lines 109--110
+Overfull \hbox (101.00249pt too wide) in paragraph at lines 101--102
 [] 
  []
 
-[12 <./Img/SQFerrarelli.jpg>]
-<./Img/SDFerrarelli.jpg, id=61, 1097.5404pt x 831.105pt>
+[8 <./Img/ADValeriani.jpg> <./Img/SQFerrarelli.jpg>]
+<./Img/SQValeriani.jpg, id=41, 3166.83125pt x 1129.21875pt>
+File: ./Img/SQValeriani.jpg Graphic file (type jpg)
+<use ./Img/SQValeriani.jpg>
+Package pdftex.def Info: ./Img/SQValeriani.jpg  used on input line 103.
+(pdftex.def)             Requested size: 443.35336pt x 158.08954pt.
+
+Overfull \hbox (83.35336pt too wide) in paragraph at lines 103--104
+[] 
+ []
+
+[9 <./Img/SQFerri.jpg>]
+<./Img/SDFerrarelli.jpg, id=45, 1097.5404pt x 831.105pt>
 File: ./Img/SDFerrarelli.jpg Graphic file (type jpg)
 <use ./Img/SDFerrarelli.jpg>
-Package pdftex.def Info: ./Img/SDFerrarelli.jpg  used on input line 113.
+Package pdftex.def Info: ./Img/SDFerrarelli.jpg  used on input line 106.
 (pdftex.def)             Requested size: 439.00839pt x 332.43611pt.
 
-Overfull \hbox (79.00839pt too wide) in paragraph at lines 113--114
+Overfull \hbox (79.00839pt too wide) in paragraph at lines 106--107
 [] 
  []
 
-[13 <./Img/SQFerri.jpg>]
-<./Img/SDFerri.jpg, id=65, 2347.77126pt x 1662.21pt>
+<./Img/SDFerri.jpg, id=46, 2347.77126pt x 1662.21pt>
 File: ./Img/SDFerri.jpg Graphic file (type jpg)
 <use ./Img/SDFerri.jpg>
-Package pdftex.def Info: ./Img/SDFerri.jpg  used on input line 115.
+Package pdftex.def Info: ./Img/SDFerri.jpg  used on input line 108.
 (pdftex.def)             Requested size: 469.54594pt x 332.43611pt.
 
-Overfull \hbox (109.54594pt too wide) in paragraph at lines 115--116
+Overfull \hbox (109.54594pt too wide) in paragraph at lines 108--109
 [] 
  []
 
-[14 <./Img/SDFerrarelli.jpg>]
-Overfull \hbox (7.79358pt too wide) in paragraph at lines 118--119
+[10 <./Img/SQValeriani.jpg> <./Img/SDFerrarelli.jpg>]
+<./Img/SDValeriani.jpg, id=50, 1045.7469pt x 227.4096pt>
+File: ./Img/SDValeriani.jpg Graphic file (type jpg)
+<use ./Img/SDValeriani.jpg>
+Package pdftex.def Info: ./Img/SDValeriani.jpg  used on input line 110.
+(pdftex.def)             Requested size: 418.29135pt x 90.96222pt.
+
+Overfull \hbox (58.29135pt too wide) in paragraph at lines 110--111
+[] 
+ []
+
+
+Overfull \hbox (7.79358pt too wide) in paragraph at lines 112--113
  \OT1/cmr/bx/n/10.95 Sonar-Cloud link[] \OT1/cmr/m/n/10.95 https://sonarcloud.i
 o/dashboard?id=ferra-rally[]concert-
  []
 
-[15 <./Img/SDFerri.jpg>] (relazioneProgetto.aux) ) 
+[11 <./Img/SDFerri.jpg> <./Img/SDValeriani.jpg>] (relazioneProgetto.aux) ) 
 Here is how much of TeX's memory you used:
- 3717 strings out of 492895
- 53290 string characters out of 3123735
+ 3692 strings out of 492895
+ 52870 string characters out of 3123735
  124142 words of memory out of 3000000
- 7567 multiletter control sequences out of 15000+200000
+ 7547 multiletter control sequences out of 15000+200000
  5715 words of font info for 21 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,39p,382b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/danie/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danie/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
-/Users/danie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mr10.pfb><C:/Users/danie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb>
-Output written on relazioneProgetto.pdf (16 pages, 8063654 bytes).
+<C:/U
+sers/danie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+x10.pfb><C:/Users/danie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><C:/Users/danie/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><C:/Users/danie/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on relazioneProgetto.pdf (12 pages, 2422176 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
+ 68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
